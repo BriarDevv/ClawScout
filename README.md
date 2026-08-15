@@ -55,7 +55,7 @@ rationale behind this framing.
 ## Quick Start
 
 ```bash
-git clone https://github.com/BriarDevv/Scouter.git ~/src/Scouter
+git clone https://github.com/bygama/Scouter.git ~/src/Scouter
 cd ~/src/Scouter
 bash scripts/init.sh    # Sets up everything: venv, deps, DB, models
 make up                 # Starts all services

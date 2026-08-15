@@ -53,7 +53,7 @@ nvm install 24 && nvm use 24
 ### Automated (recommended)
 
 ```bash
-git clone https://github.com/BriarDevv/Scouter.git ~/src/Scouter
+git clone https://github.com/bygama/Scouter.git ~/src/Scouter
 cd ~/src/Scouter
 bash scripts/init.sh
 ```
